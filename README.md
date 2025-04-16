@@ -12,7 +12,7 @@ I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applica
 
 | Plugin | Description |
 |--------|-------------|
-
+- [wp-ices-attendees](https://github.com/Alii-afk/wp-ices-attendees.git) – Manage conference attendees with CSV export
 ---
 
 ## 🧱 Laravel Projects
