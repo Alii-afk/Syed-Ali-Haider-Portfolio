@@ -13,6 +13,7 @@ I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applica
 | Plugin | Description |
 |--------|-------------|
 - [wp-ices-attendees](https://github.com/Alii-afk/wp-ices-attendees.git) – Manage conference attendees with CSV export
+- [wp-currency-rate-converter](https://github.com/Alii-afk/wp-currency-rate-converter.git) – 💱 Manage Admin-defined exchange rates with live frontend shortcode for user conversions.
 ---
 
 ## 🧱 Laravel Projects
