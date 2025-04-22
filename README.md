@@ -14,7 +14,8 @@ I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applica
 |--------|-------------|
 - [wp-ices-attendees](https://github.com/Alii-afk/wp-ices-attendees.git) – Manage conference attendees with CSV export
 - [wp-currency-rate-converter](https://github.com/Alii-afk/wp-currency-rate-converter.git) – Manage Admin-defined exchange rates with live frontend shortcode for user conversions.
-- [wp-nutrition-label-generator](https://alihaiderhamadani.com/wp-nutrition-label-generator) -  A WordPress plugin that uses a shortcode to display a form where users can enter product details to generate a professional nutrition label for use on product packaging. Ideal for food businesses and manufacturers needing compliant, customizable labels.
+- [wp-nutrition-label-generator](https://github.com/Alii-afk/wp-nutrition-label-generator) -  A WordPress plugin that uses a shortcode to display a form where users can enter product details to generate a professional nutrition label for use on product packaging. Ideal for food businesses and manufacturers needing compliant, customizable labels.
+- [wp-twillo-phone-number-manager](https://github.com/Alii-afk/wp-twillo-phone-number-manager) - A WordPress plugin that allows users, sellers, and guests to register their Twilio phone numbers, and sends SMS notifications via Twilio when an order is placed. Integrates with WooCommerce checkout and user/product metadata.
 ---
 
 ## 🧱 Laravel Projects
