@@ -3,7 +3,7 @@ Developer Portfolio
 
 # 👋 Hi, I'm Syed Ali Haider
 
-🎯 Full Stack Developer with a passion for building scalable web apps and custom WordPress solutions.  
+A Full Stack Developer with a passion for building scalable web apps and custom WordPress solutions.  
 I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applications**.
 
 ---
@@ -13,7 +13,8 @@ I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applica
 | Plugin | Description |
 |--------|-------------|
 - [wp-ices-attendees](https://github.com/Alii-afk/wp-ices-attendees.git) – Manage conference attendees with CSV export
-- [wp-currency-rate-converter](https://github.com/Alii-afk/wp-currency-rate-converter.git) – 💱 Manage Admin-defined exchange rates with live frontend shortcode for user conversions.
+- [wp-currency-rate-converter](https://github.com/Alii-afk/wp-currency-rate-converter.git) – Manage Admin-defined exchange rates with live frontend shortcode for user conversions.
+- [wp-nutirtion-label-plugin](https://alihaiderhamadani.com/wp-nutirtion-label-plugin) -  A WordPress plugin that uses a shortcode to display a form where users can enter product details to generate a professional nutrition label for use on product packaging. Ideal for food businesses and manufacturers needing compliant, customizable labels.
 ---
 
 ## 🧱 Laravel Projects
@@ -23,7 +24,7 @@ I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applica
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 🌐 Website: [alihaiderhamadani.com](https://alihaiderhamadani.com)
 - 💼 LinkedIn: [linkedin.com/in/its-ali-haider](https://www.linkedin.com/in/its-ali-haider/)
