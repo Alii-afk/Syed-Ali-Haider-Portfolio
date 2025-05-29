@@ -20,8 +20,10 @@ I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applica
 
 ## 🧱 Laravel Projects
 
-| Project | Description |
-|---------|-------------|
+| Project                               | Description                                                                                                                                       |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ntaafuo**                           | Apartment-sharing platform for Ghana. Built using Laravel, with full-stack features and RESTful APIs for listings, bookings, and user management. |
+| **IMS (Inventory Management System)** | Inventory system built using Next.js (frontend) and Laravel (backend). Offers a sleek UI and dynamic product/stock handling APIs.                 |
 
 ---
 
@@ -29,7 +31,6 @@ I specialize in **PHP**, **WordPress Plugin Development**, and **Laravel Applica
 
 - 🌐 Website: [alihaiderhamadani.com](https://alihaiderhamadani.com)
 - 💼 LinkedIn: [linkedin.com/in/its-ali-haider](https://www.linkedin.com/in/its-ali-haider/)
-- 🛠️ Fiverr: [[fiverr.com/syedali157](https://www.fiverr.com/syedali157)]
 - 📩 Email: `alihaiderhamadani@gmail.com`
 
 ---
